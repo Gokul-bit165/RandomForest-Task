@@ -1,0 +1,10 @@
+Task 3: Random Forest – Customer Churn
+Scenario:
+ A telecom provider aims to predict customer churn based on various customer attributes and service usage patterns.
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn 
+Features: MonthlyCharges, Tenure , SupportCalls , Contract , Churn
+Target:
+ Churn (0 = No, 1 = Yes)
+Task:
+ Train a Random Forest classifier to predict customer churn. Report feature importance and predict churn for a customer with the following attributes:
+MonthlyCharges = 70 , Tenure = 8 , SupportCalls = 4 , Contract = 'Month-to-month'
