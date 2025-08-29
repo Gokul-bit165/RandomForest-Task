@@ -1,5 +1,9 @@
 # 🌳 RandomForest - Customer Churn Prediction  
 
+## 🔗 Live Project
+
+Check out the live demo: [Customer Churn Prediction App](https://huggingface.co/spaces/GokulV/churn_prediction)
+
 This project demonstrates how to use the **Random Forest algorithm** to predict **customer churn** in a telecom dataset. The aim is to identify customers likely to leave the service based on their attributes and usage patterns.  
 
 ## 📊 Problem Statement  
@@ -106,6 +110,9 @@ Random Forest provides a reliable model for churn prediction. By identifying hig
 | ![Churn](images/churn_distribution.png) | ![Importance](images/feature_importance.png) |  
 
 ---
+## 🖥️ Live Demo Screenshot
+
+![Live UI](live-ui.png)
 
 ## 🤝 Contributing  
 
